@@ -1,6 +1,6 @@
 # Cálculo de Rotación de Plantilla
 ## Intro
-En este proyecto, limpiare y transformaré una BBDD inventada de empleados para su correspondiente cálculo de rotación.
+En este proyecto, limpiaré y transformaré una BBDD inventada de empleados para su correspondiente cálculo de rotación.
 ## Data
 - `employees.csv` Plantilla parcial de una empresa.
 - `listado.csv` BBDD de todos los work places y sus responsables.
